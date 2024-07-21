@@ -1,0 +1,1 @@
+<h3>This is an Amazon Clone designed using HTML & CSS</h3>

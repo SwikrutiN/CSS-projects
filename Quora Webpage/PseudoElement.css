@@ -1,0 +1,9 @@
+h1::first-letter{
+    color:hotpink;
+}
+p::first-line{
+    color:coral;
+}
+p::selection{
+    background-color:burlywood;
+}
